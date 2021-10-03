@@ -56,6 +56,7 @@
 [생활코딩link]:https://opentutorials.org/course/1  
 
 
+
 ### 주로 쓰는 검색 엔진
 
 http://www.google.com  
@@ -63,5 +64,17 @@ http://www.google.com
 [naver][https://www.naver.com]  
 
 
-![캡처](/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG)
 
+---
+
+
+
+## 참고
+
+[CapsuleRender][CapsuleRenderlink]    
+[Emoji][Emojilink]  
+
+[CapsuleRenderlink]:https://github.com/kyechan99/capsule-render  
+[Emojilink]:https://www.unicode.org/emoji/charts/full-emoji-list.html  
+
+![루피](https://user-images.githubusercontent.com/90556317/135756324-f94e08ac-2a38-4339-af49-bb0e36132be4.jpg)  
