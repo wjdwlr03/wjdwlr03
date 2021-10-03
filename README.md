@@ -78,4 +78,7 @@ http://www.google.com
 [Emojilink2]:https://doozi316.github.io/markdown/2020/08/10/MD2/
 
 
-![루피](https://user-images.githubusercontent.com/90556317/135756324-f94e08ac-2a38-4339-af49-bb0e36132be4.jpg)  
+![루피](https://user-images.githubusercontent.com/90556317/135756324-f94e08ac-2a38-4339-af49-bb0e36132be4.jpg)
+
+<img src = https://user-images.githubusercontent.com/90556317/135756324-f94e08ac-2a38-4339-af49-bb0e36132be4.jpg height=100 width=100>
+
