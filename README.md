@@ -20,7 +20,7 @@
 ### 추가 학습이 필요한 과목
 
 * __자료구조 / 알고리즘__  
-* Java / JavaScript
+* ++Java / JavaScript++
 * C / ~~C++ / c#~~  
 
 
