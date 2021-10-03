@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yeeun's%20Profile&fontSize=90)
 
 
-# Hallym University 👋  
-
+# Hallym University
 * major - big data / minor - smart IoT
 * mailTo: wjdwlr03@gmail.com 💬 
 # 
 
 
-### 현재 수강 중인 과목 
+### 현재 수강 중인 과목 :pencil:
 
 1. _오픈소스 소프트웨어_
 2. 알고리즘 
@@ -17,15 +16,15 @@
 
 
 
-### 추가 학습이 필요한 과목
+### 추가 학습이 필요한 과목 :chart_with_downwards_trend:
 
 * __자료구조 / 알고리즘__  
-* ++Java / JavaScript++
+* Java / JavaScript
 * C / ~~C++ / c#~~  
 
 
 
-### 프로그래밍 언어 사용 순위
+### 프로그래밍 언어 사용 순위 :pushpin:
 
 |Java|C&nbsp;|Python|JavaScript|
 |---:|---:|---:|---:|
@@ -37,7 +36,7 @@
 
 
 
-### 관심 분야
+### 관심 분야 :computer:
 
 + 컴퓨터 그래픽스
   + UI/UX 디자인
@@ -45,7 +44,7 @@
 
 
 
-### 자주 이용하는 학습 사이트
+### 자주 이용하는 학습 사이트 :bulb:
 
 [CodeIt][CodeItlink]  
 [BAEKJOON][BAEKJOONlink]  
@@ -57,7 +56,7 @@
 
 
 
-### 주로 쓰는 검색 엔진
+### 주로 쓰는 검색 엔진 :mag_right:
 
 http://www.google.com  
 [youtube](https://www.youtube.com)  
@@ -69,12 +68,14 @@ http://www.google.com
 
 
 
-## 참고
-
+## 참고 :tulip:
 [CapsuleRender][CapsuleRenderlink]    
-[Emoji][Emojilink]  
+[Emoji1][Emojilink1]  
+[Emoji2][Emojilink2]  
 
 [CapsuleRenderlink]:https://github.com/kyechan99/capsule-render  
-[Emojilink]:https://www.unicode.org/emoji/charts/full-emoji-list.html  
+[Emojilink1]:https://www.unicode.org/emoji/charts/full-emoji-list.html
+[Emojilink2]:https://doozi316.github.io/markdown/2020/08/10/MD2/
+
 
 ![루피](https://user-images.githubusercontent.com/90556317/135756324-f94e08ac-2a38-4339-af49-bb0e36132be4.jpg)  
